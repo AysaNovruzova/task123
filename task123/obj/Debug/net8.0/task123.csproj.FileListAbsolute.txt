@@ -1,0 +1,5 @@
+C:\Users\HP\Desktop\task123\task123\obj\Debug\net8.0\task123.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\task123\task123\obj\Debug\net8.0\task123.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\task123\task123\obj\Debug\net8.0\task123.AssemblyInfo.cs
+C:\Users\HP\Desktop\task123\task123\obj\Debug\net8.0\task123.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\task123\task123\obj\Debug\net8.0\task123.sourcelink.json
